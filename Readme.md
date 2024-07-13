@@ -52,5 +52,7 @@ This project demonstrates how to perform Create, Read, Update, and Delete (CRUD)
 
 ## Screenshots
 <img src="https://github.com/Vanshita021/Crud_oops/blob/main/images/image-1.png">
+<img src="https://github.com/Vanshita021/Crud_oops/blob/main/images/image-2.png">
+<img src="https://github.com/Vanshita021/Crud_oops/blob/main/images/image-3.png">
 
 
