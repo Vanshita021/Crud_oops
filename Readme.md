@@ -40,11 +40,12 @@ This project demonstrates how to perform Create, Read, Update, and Delete (CRUD)
 
   Open config/Database.php and update the database  credentials:
 
-  ```bash
+```bash
   private $host = 'localhost';
   private $db_name = 'your_database_name';
   private $username = 'your_username';
   private $password = 'your_password';
+
 ```
 
 - Open your browser and navigate to http://localhost:8000.
