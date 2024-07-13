@@ -21,6 +21,10 @@ This project demonstrates how to perform Create, Read, Update, and Delete (CRUD)
 <h3>Installation</h3>
     <ol>
         <li>Clone the repository:</li>
+         ```bash
+        git clone https://github.com/yourusername/crud-php-oop.git
+        cd crud-php-oop
+        ```
         <li>Import the database.sql file into your MySQL database to create the necessary tables.</li>
         <li>Configure the database connection:<br>Open config/Database.php and update the database credentials:</li>
         <li>Open your browser and navigate to http://localhost:8000.</li>
