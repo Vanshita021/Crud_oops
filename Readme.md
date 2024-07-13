@@ -50,5 +50,7 @@ This project demonstrates how to perform Create, Read, Update, and Delete (CRUD)
 
 - Open your browser and navigate to http://localhost:8000.
 
+## Screenshots
+<img src="https://github.com/Vanshita021/Crud_oops/blob/main/images/image-1.png">
 
 
